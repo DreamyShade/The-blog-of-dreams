@@ -8,7 +8,6 @@
     "startSite":"21/04/2026",
     "singlePage":["about"],
     "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "i18n":"CN",
     "UTC":8,
     "needComment":0,
